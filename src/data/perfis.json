@@ -1,0 +1,141 @@
+[
+  {
+    "Id": 1,
+    "nome": "Ana Clara Silva",
+    "foto": "https://randomuser.me/api/portraits/women/1.jpg",
+    "cargo": "Desenvolvedora Frontend Sênior",
+    "resumo": "Especialista em React, UI/UX e metodologias ágeis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "Node.js", "Figma"],
+    "softSkills": ["Comunicação", "Resiliência", "Trabalho em Equipe", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "Tech Solutions Ltda.",
+        "cargo": "Desenvolvedora Frontend Sênior",
+        "inicio": "2022-03",
+        "fim": "Atual",
+        "descricao": "Liderança técnica em projetos de larga escala com React e Next.js, focada em performance e experiência do usuário."
+      },
+      {
+        "empresa": "Web Innovators S.A.",
+        "cargo": "Desenvolvedora Frontend Plena",
+        "inicio": "2019-08",
+        "fim": "2022-02",
+        "descricao": "Desenvolvimento e manutenção de interfaces web responsivas utilizando React e Styled Components."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal de São Paulo (UNIFESP)",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce B2B",
+        "link": "https://example.com/project1",
+        "descricao": "Desenvolvimento do frontend de uma plataforma B2B, resultando em 20% de aumento na conversão."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner", "Scrum Master Certified (SMC)"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Inteligência Artificial", "Sustentabilidade", "Educação Tecnológica"]
+  },
+  {
+    "Id": 2,
+    "nome": "Carlos Eduardo Santos",
+    "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+    "cargo": "Engenheiro de Software Backend",
+    "resumo": "Desenvolvedor Node.js e Python, com experiência em microserviços e APIs RESTful.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "TI",
+    "habilidadesTecnicas": ["Node.js", "Python", "SQL", "Docker", "AWS", "MongoDB"],
+    "softSkills": ["Análise Crítica", "Resolução de Problemas", "Organização", "Autodidatismo"],
+    "experiencias": [
+      {
+        "empresa": "Global Systems Ltda.",
+        "cargo": "Engenheiro de Software Backend",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Criação e manutenção de APIs escaláveis com Node.js e Express, integrando com diversos bancos de dados."
+      },
+      {
+        "empresa": "Startup Connect",
+        "cargo": "Desenvolvedor Júnior",
+        "inicio": "2018-06",
+        "fim": "2020-12",
+        "descricao": "Desenvolvimento de rotinas de backend em Python para processamento de dados e integração de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão de Estoque",
+        "link": "https://example.com/project2",
+        "descricao": "Implementação de um sistema de gestão de estoque completo, do banco de dados à API, otimizando processos internos."
+      }
+    ],
+    "certificacoes": ["Certified Kubernetes Administrator (CKA)", "Google Cloud Professional Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Cloud Computing", "DevOps", "Cibersegurança"]
+  },
+  {
+    "Id": 3,
+    "nome": "Beatriz Lima Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/3.jpg",
+    "cargo": "Designer UX/UI",
+    "resumo": "Apaixonada por criar experiências digitais intuitivas e visualmente atraentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Sketch", "Adobe XD", "Design System", "Prototipagem"],
+    "softSkills": ["Criatividade", "Empatia", "Colaboração", "Pensamento Crítico"],
+    "experiencias": [
+      {
+        "empresa": "Creative Minds Studio",
+        "cargo": "Designer UX/UI Sênior",
+        "inicio": "2020-05",
+        "fim": "Atual",
+        "descricao": "Liderança no desenvolvimento de interfaces de usuário para aplicações mobile e web, com foco em usabilidade e acessibilidade."
+      },
+      {
+        "empresa": "Design First Agência",
+        "cargo": "Designer Júnior",
+        "inicio": "2017-09",
+        "fim": "2020-04",
+        "descricao": "Criação de wireframes, protótipos e layouts visuais para diversos clientes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Gráfico",
+        "instituicao": "Universidade do Estado de Minas Gerais (UEMG)",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo de Saúde Mental",
+        "link": "https://example.com/project3",
+        "descricao": "Design completo de um aplicativo de saúde mental, desde a pesquisa de usuário até a entrega do protótipo final."
+      }
+    ],
+    "certificacoes": ["Google UX Design Professional Certificate", "Interaction Design Foundation (IxDF) Member"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Acessibilidade Digital", "Design Inclusivo", "Realidade Aumentada"]
+  }
+]
