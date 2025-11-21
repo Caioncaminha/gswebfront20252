@@ -15,35 +15,20 @@
         "cargo": "Desenvolvedora Frontend Sênior",
         "inicio": "2022-03",
         "fim": "Atual",
-        "descricao": "Liderança técnica em projetos de larga escala com React e Next.js, focada em performance e experiência do usuário."
+        "descricao": "Liderança técnica em projetos de larga escala com React e Next.js."
       },
       {
         "empresa": "Web Innovators S.A.",
         "cargo": "Desenvolvedora Frontend Plena",
         "inicio": "2019-08",
         "fim": "2022-02",
-        "descricao": "Desenvolvimento e manutenção de interfaces web responsivas utilizando React e Styled Components."
+        "descricao": "Desenvolvimento e manutenção de interfaces web responsivas."
       }
     ],
-    "formacao": [
-      {
-        "curso": "Bacharelado em Ciência da Computação",
-        "instituicao": "Universidade Federal de São Paulo (UNIFESP)",
-        "ano": 2019
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Plataforma de E-commerce B2B",
-        "link": "https://example.com/project1",
-        "descricao": "Desenvolvimento do frontend de uma plataforma B2B, resultando em 20% de aumento na conversão."
-      }
-    ],
+    "formacao": [{"curso": "Bacharelado em Ciência da Computação", "instituicao": "UNIFESP", "ano": 2019}],
+    "projetos": [{"titulo": "Plataforma de E-commerce B2B", "link": "https://example.com/project1", "descricao": "Frontend de uma plataforma B2B, resultando em 20% de aumento na conversão."}],
     "certificacoes": ["AWS Certified Cloud Practitioner", "Scrum Master Certified (SMC)"],
-    "idiomas": [
-      { "idioma": "Inglês", "nivel": "Avançado" },
-      { "idioma": "Espanhol", "nivel": "Intermediário" }
-    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }, { "idioma": "Espanhol", "nivel": "Intermediário" }],
     "areaInteresses": ["Inteligência Artificial", "Sustentabilidade", "Educação Tecnológica"]
   },
   {
@@ -57,39 +42,13 @@
     "habilidadesTecnicas": ["Node.js", "Python", "SQL", "Docker", "AWS", "MongoDB"],
     "softSkills": ["Análise Crítica", "Resolução de Problemas", "Organização", "Autodidatismo"],
     "experiencias": [
-      {
-        "empresa": "Global Systems Ltda.",
-        "cargo": "Engenheiro de Software Backend",
-        "inicio": "2021-01",
-        "fim": "Atual",
-        "descricao": "Criação e manutenção de APIs escaláveis com Node.js e Express, integrando com diversos bancos de dados."
-      },
-      {
-        "empresa": "Startup Connect",
-        "cargo": "Desenvolvedor Júnior",
-        "inicio": "2018-06",
-        "fim": "2020-12",
-        "descricao": "Desenvolvimento de rotinas de backend em Python para processamento de dados e integração de sistemas."
-      }
+      {"empresa": "Global Systems Ltda.", "cargo": "Engenheiro de Software Backend", "inicio": "2021-01", "fim": "Atual", "descricao": "Criação e manutenção de APIs escaláveis com Node.js e Express."},
+      {"empresa": "Startup Connect", "cargo": "Desenvolvedor Júnior", "inicio": "2018-06", "fim": "2020-12", "descricao": "Desenvolvimento de rotinas de backend em Python."}
     ],
-    "formacao": [
-      {
-        "curso": "Engenharia de Software",
-        "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
-        "ano": 2020
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Sistema de Gestão de Estoque",
-        "link": "https://example.com/project2",
-        "descricao": "Implementação de um sistema de gestão de estoque completo, do banco de dados à API, otimizando processos internos."
-      }
-    ],
-    "certificacoes": ["Certified Kubernetes Administrator (CKA)", "Google Cloud Professional Developer"],
-    "idiomas": [
-      { "idioma": "Inglês", "nivel": "Fluente" }
-    ],
+    "formacao": [{"curso": "Engenharia de Software", "instituicao": "PUC-Rio", "ano": 2020}],
+    "projetos": [{"titulo": "Sistema de Gestão de Estoque", "link": "https://example.com/project2", "descricao": "Implementação de um sistema de gestão de estoque completo."}],
+    "certificacoes": ["Certified Kubernetes Administrator (CKA)"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
     "areaInteresses": ["Cloud Computing", "DevOps", "Cibersegurança"]
   },
   {
@@ -103,39 +62,241 @@
     "habilidadesTecnicas": ["Figma", "Sketch", "Adobe XD", "Design System", "Prototipagem"],
     "softSkills": ["Criatividade", "Empatia", "Colaboração", "Pensamento Crítico"],
     "experiencias": [
-      {
-        "empresa": "Creative Minds Studio",
-        "cargo": "Designer UX/UI Sênior",
-        "inicio": "2020-05",
-        "fim": "Atual",
-        "descricao": "Liderança no desenvolvimento de interfaces de usuário para aplicações mobile e web, com foco em usabilidade e acessibilidade."
-      },
-      {
-        "empresa": "Design First Agência",
-        "cargo": "Designer Júnior",
-        "inicio": "2017-09",
-        "fim": "2020-04",
-        "descricao": "Criação de wireframes, protótipos e layouts visuais para diversos clientes."
-      }
+      {"empresa": "Creative Minds Studio", "cargo": "Designer UX/UI Sênior", "inicio": "2020-05", "fim": "Atual", "descricao": "Liderança no desenvolvimento de interfaces de usuário para aplicações mobile e web."},
+      {"empresa": "Design First Agência", "cargo": "Designer Júnior", "inicio": "2017-09", "fim": "2020-04", "descricao": "Criação de wireframes, protótipos e layouts visuais."}
     ],
-    "formacao": [
-      {
-        "curso": "Design Gráfico",
-        "instituicao": "Universidade do Estado de Minas Gerais (UEMG)",
-        "ano": 2017
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Aplicativo de Saúde Mental",
-        "link": "https://example.com/project3",
-        "descricao": "Design completo de um aplicativo de saúde mental, desde a pesquisa de usuário até a entrega do protótipo final."
-      }
-    ],
+    "formacao": [{"curso": "Design Gráfico", "instituicao": "UEMG", "ano": 2017}],
+    "projetos": [{"titulo": "Aplicativo de Saúde Mental", "link": "https://example.com/project3", "descricao": "Design completo de um aplicativo de saúde mental."}],
     "certificacoes": ["Google UX Design Professional Certificate", "Interaction Design Foundation (IxDF) Member"],
-    "idiomas": [
-      { "idioma": "Inglês", "nivel": "Avançado" }
-    ],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
     "areaInteresses": ["Acessibilidade Digital", "Design Inclusivo", "Realidade Aumentada"]
+  },
+  {
+    "Id": 4, "nome": "Lucas Martins", "foto": "https://randomuser.me/api/portraits/men/4.jpg", "cargo": "Gerente de Projetos", "localizacao": "Porto Alegre/RS", "area": "Gestão",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Jira", "Trello"], "softSkills": ["Liderança", "Negociação"]
+  },
+  {
+    "Id": 5, "nome": "Juliana Costa", "foto": "https://randomuser.me/api/portraits/women/5.jpg", "cargo": "Analista de Dados", "localizacao": "Curitiba/PR", "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Power BI", "SQL"], "softSkills": ["Atenção aos Detalhes", "Raciocínio Lógico"]
+  },
+  {
+    "Id": 6, "nome": "Fernando Almeida", "foto": "https://randomuser.me/api/portraits/men/6.jpg", "cargo": "Engenheiro DevOps", "localizacao": "São Paulo/SP", "area": "TI",
+    "habilidadesTecnicas": ["Terraform", "Ansible", "Kubernetes", "Jenkins"], "softSkills": ["Automação", "Colaboração"]
+  },
+  {
+    "Id": 7, "nome": "Mariana Ferreira", "foto": "https://randomuser.me/api/portraits/women/7.jpg", "cargo": "Product Owner", "localizacao": "Recife/PE", "area": "Produto",
+    "habilidadesTecnicas": ["User Story Mapping", "MVP", "Roadmap"], "softSkills": ["Visão de Produto", "Comunicação"]
+  },
+  {
+    "Id": 8, "nome": "Rafael Oliveira", "foto": "https://randomuser.me/api/portraits/men/8.jpg", "cargo": "Desenvolvedor Full Stack", "localizacao": "Salvador/BA", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "Java", "Spring Boot"], "softSkills": ["Versatilidade", "Resolução de Problemas"]
+  },
+  {
+    "Id": 9, "nome": "Gabriela Souza", "foto": "https://randomuser.me/api/portraits/women/9.jpg", "cargo": "Arquiteta de Software", "localizacao": "São Paulo/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Microsserviços", "DDD", "Event Sourcing"], "softSkills": ["Visão Sistêmica", "Tomada de Decisão"]
+  },
+  {
+    "Id": 10, "nome": "Thiago Pereira", "foto": "https://randomuser.me/api/portraits/men/10.jpg", "cargo": "Cientista de Dados", "localizacao": "Belo Horizonte/MG", "area": "Dados",
+    "habilidadesTecnicas": ["Machine Learning", "TensorFlow", "PyTorch"], "softSkills": ["Pesquisa", "Modelagem Estatística"]
+  },
+  {
+    "Id": 11, "nome": "Camila Ribeiro", "foto": "https://randomuser.me/api/portraits/women/11.jpg", "cargo": "Analista de Segurança", "localizacao": "Brasília/DF", "area": "Segurança",
+    "habilidadesTecnicas": ["Pentest", "SIEM", "Firewall", "Kali Linux"], "softSkills": ["Análise de Risco", "Ética"]
+  },
+  {
+    "Id": 12, "nome": "Rodrigo Lima", "foto": "https://randomuser.me/api/portraits/men/12.jpg", "cargo": "Desenvolvedor Mobile", "localizacao": "Florianópolis/SC", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "Flutter", "Swift", "Kotlin"], "softSkills": ["Foco no Usuário", "Performance"]
+  },
+  {
+    "Id": 13, "nome": "Larissa Barros", "foto": "https://randomuser.me/api/portraits/women/13.jpg", "cargo": "Engenheira de QA", "localizacao": "São Paulo/SP", "area": "Qualidade",
+    "habilidadesTecnicas": ["Cypress", "Selenium", "Jest", "Testes de Carga"], "softSkills": ["Qualidade", "Planejamento"]
+  },
+  {
+    "Id": 14, "nome": "Gustavo Mendes", "foto": "https://randomuser.me/api/portraits/men/14.jpg", "cargo": "Administrador de Sistemas", "localizacao": "Goiânia/GO", "area": "TI",
+    "habilidadesTecnicas": ["Linux", "Windows Server", "Ansible", "Zabbix"], "softSkills": ["Monitoramento", "Resiliência"]
+  },
+  {
+    "Id": 15, "nome": "Patrícia Nunes", "foto": "https://randomuser.me/api/portraits/women/15.jpg", "cargo": "Analista de Marketing Digital", "localizacao": "São Paulo/SP", "area": "Marketing",
+    "habilidadesTecnicas": ["Google Analytics", "SEO", "SEM", "Inbound Marketing"], "softSkills": ["Estratégia", "Análise de Métricas"]
+  },
+  {
+    "Id": 16, "nome": "Felipe Gomes", "foto": "https://randomuser.me/api/portraits/men/16.jpg", "cargo": "Desenvolvedor de Jogos", "localizacao": "Rio de Janeiro/RJ", "area": "Jogos",
+    "habilidadesTecnicas": ["Unity", "C#", "Unreal Engine", "Blender"], "softSkills": ["Criatividade", "Matemática"]
+  },
+  {
+    "Id": 17, "nome": "Letícia Azevedo", "foto": "https://randomuser.me/api/portraits/women/17.jpg", "cargo": "DBA", "localizacao": "Campinas/SP", "area": "Dados",
+    "habilidadesTecnicas": ["PostgreSQL", "MySQL", "Oracle", "Performance Tuning"], "softSkills": ["Organização", "Otimização"]
+  },
+  {
+    "Id": 18, "nome": "Bruno Carvalho", "foto": "https://randomuser.me/api/portraits/men/18.jpg", "cargo": "Analista de BI", "localizacao": "Porto Alegre/RS", "area": "Dados",
+    "habilidadesTecnicas": ["Tableau", "Qlik Sense", "ETL", "Data Warehouse"], "softSkills": ["Visualização de Dados", "Comunicação"]
+  },
+  {
+    "Id": 19, "nome": "Amanda Rocha", "foto": "https://randomuser.me/api/portraits/women/19.jpg", "cargo": "Scrum Master", "localizacao": "Curitiba/PR", "area": "Gestão",
+    "habilidadesTecnicas": ["Agile Coaching", "Scrum", "Kanban"], "softSkills": ["Facilitação", "Mentoria"]
+  },
+  {
+    "Id": 20, "nome": "Diego Barbosa", "foto": "https://randomuser.me/api/portraits/men/20.jpg", "cargo": "Desenvolvedor Python", "localizacao": "São Paulo/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Django", "Flask", "Pandas", "FastAPI"], "softSkills": ["Lógica", "Eficiência"]
+  },
+  {
+    "Id": 21, "nome": "Sophia Dias", "foto": "https://randomuser.me/api/portraits/women/21.jpg", "cargo": "UX Writer", "localizacao": "Lisboa/PT", "area": "Design",
+    "habilidadesTecnicas": ["Microcopy", "Storytelling", "Content Strategy"], "softSkills": ["Empatia", "Clareza"]
+  },
+  {
+    "Id": 22, "nome": "Daniel Castro", "foto": "https://randomuser.me/api/portraits/men/22.jpg", "cargo": "Engenheiro de Machine Learning", "localizacao": "São Paulo/SP", "area": "Dados",
+    "habilidadesTecnicas": ["Scikit-learn", "Keras", "MLOps", "Airflow"], "softSkills": ["Experimentação", "Rigor Científico"]
+  },
+  {
+    "Id": 23, "nome": "Alice Monteiro", "foto": "https://randomuser.me/api/portraits/women/23.jpg", "cargo": "Desenvolvedora Java", "localizacao": "Belo Horizonte/MG", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "Hibernate", "Kafka"], "softSkills": ["Robustez", "Escalabilidade"]
+  },
+  {
+    "Id": 24, "nome": "Vitor Ramos", "foto": "https://randomuser.me/api/portraits/men/24.jpg", "cargo": "Analista de Redes", "localizacao": "Recife/PE", "area": "TI",
+    "habilidadesTecnicas": ["Cisco", "TCP/IP", "VPN", "Firewall"], "softSkills": ["Diagnóstico", "Segurança"]
+  },
+  {
+    "Id": 25, "nome": "Isabela Pinto", "foto": "https://randomuser.me/api/portraits/women/25.jpg", "cargo": "UI Designer", "localizacao": "Porto/PT", "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Illustrator", "Prototipagem", "Design System"], "softSkills": ["Estética", "Interação"]
+  },
+  {
+    "Id": 26, "nome": "Leonardo Cunha", "foto": "https://randomuser.me/api/portraits/men/26.jpg", "cargo": "Desenvolvedor C#", "localizacao": "São Paulo/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": [".NET", "ASP.NET Core", "Entity Framework", "Azure"], "softSkills": ["Orientação a Objetos", "Performance"]
+  },
+  {
+    "Id": 27, "nome": "Manuela Freitas", "foto": "https://randomuser.me/api/portraits/women/27.jpg", "cargo": "Head de Produto", "localizacao": "Rio de Janeiro/RJ", "area": "Produto",
+    "habilidadesTecnicas": ["Go-to-market", "Product Strategy", "P&L"], "softSkills": ["Liderança Estratégica", "Visão de Negócio"]
+  },
+  {
+    "Id": 28, "nome": "Heitor Teles", "foto": "https://randomuser.me/api/portraits/men/28.jpg", "cargo": "Desenvolvedor PHP", "localizacao": "Curitiba/PR", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Laravel", "Symfony", "PHPUnit", "Composer"], "softSkills": ["Manutenção", "Comunidade"]
+  },
+  {
+    "Id": 29, "nome": "Laura Cardoso", "foto": "https://randomuser.me/api/portraits/women/29.jpg", "cargo": "Recrutadora Técnica", "localizacao": "São Paulo/SP", "area": "RH",
+    "habilidadesTecnicas": ["LinkedIn Recruiter", "Hunting", "Entrevista por Competências"], "softSkills": ["Comunicação Interpessoal", "Persuasão"]
+  },
+  {
+    "Id": 30, "nome": "Arthur Bernardes", "foto": "https://randomuser.me/api/portraits/men/30.jpg", "cargo": "Arquiteto de Soluções Cloud", "localizacao": "Brasília/DF", "area": "TI",
+    "habilidadesTecnicas": ["AWS", "Azure", "GCP", "Serverless"], "softSkills": ["Desenho de Arquitetura", "Custo-Benefício"]
+  },
+  {
+    "Id": 31, "nome": "Valentina Moraes", "foto": "https://randomuser.me/api/portraits/women/31.jpg", "cargo": "Engenheira de Dados", "localizacao": "São Paulo/SP", "area": "Dados",
+    "habilidadesTecnicas": ["Spark", "Hadoop", "ETL", "Airflow"], "softSkills": ["Big Data", "Processamento Distribuído"]
+  },
+  {
+    "Id": 32, "nome": "Bernardo Teixeira", "foto": "https://randomuser.me/api/portraits/men/32.jpg", "cargo": "Desenvolvedor Go", "localizacao": "Campinas/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Go", "gRPC", "Docker", "Prometheus"], "softSkills": ["Concorrência", "Simplicidade"]
+  },
+  {
+    "Id": 33, "nome": "Heloísa Justino", "foto": "https://randomuser.me/api/portraits/women/33.jpg", "cargo": "Analista de SEO", "localizacao": "Belo Horizonte/MG", "area": "Marketing",
+    "habilidadesTecnicas": ["Ahrefs", "SEMrush", "On-page SEO", "Link Building"], "softSkills": ["Pesquisa de Palavras-chave", "Análise"]
+  },
+  {
+    "Id": 34, "nome": "Davi Moreira", "foto": "https://randomuser.me/api/portraits/men/34.jpg", "cargo": "Desenvolvedor Frontend", "localizacao": "Florianópolis/SC", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Vue.js", "Nuxt.js", "GraphQL", "Sass"], "softSkills": ["Reatividade", "Componentização"]
+  },
+  {
+    "Id": 35, "nome": "Lívia Nogueira", "foto": "https://randomuser.me/api/portraits/women/35.jpg", "cargo": "Agile Coach", "localizacao": "São Paulo/SP", "area": "Gestão",
+    "habilidadesTecnicas": ["SAFe", "LeSS", "Nexus", "Métricas Ágeis"], "softSkills": ["Transformação Cultural", "Coaching"]
+  },
+  {
+    "Id": 36, "nome": "Enzo Gabriel", "foto": "https://randomuser.me/api/portraits/men/36.jpg", "cargo": "Suporte Técnico", "localizacao": "Porto Alegre/RS", "area": "TI",
+    "habilidadesTecnicas": ["Zendesk", "ITIL", "Troubleshooting", "Atendimento"], "softSkills": ["Paciência", "Didática"]
+  },
+  {
+    "Id": 37, "nome": "Cecília Sales", "foto": "https://randomuser.me/api/portraits/women/37.jpg", "cargo": "Gerente de Marketing", "localizacao": "Rio de Janeiro/RJ", "area": "Marketing",
+    "habilidadesTecnicas": ["Branding", "Planejamento Estratégico", "Mídia Paga"], "softSkills": ["Liderança Criativa", "Orçamento"]
+  },
+  {
+    "Id": 38, "nome": "Benício Pires", "foto": "https://randomuser.me/api/portraits/men/38.jpg", "cargo": "Desenvolvedor Ruby", "localizacao": "São Paulo/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Ruby on Rails", "RSpec", "Sidekiq", "Heroku"], "softSkills": ["Produtividade", "Metaprogramação"]
+  },
+  {
+    "Id": 39, "nome": "Esther Farias", "foto": "https://randomuser.me/api/portraits/women/39.jpg", "cargo": "Analista Financeiro", "localizacao": "Curitiba/PR", "area": "Financeiro",
+    "habilidadesTecnicas": ["Excel Avançado", "Análise de DRE", "Fluxo de Caixa"], "softSkills": ["Organização Financeira", "Precisão"]
+  },
+  {
+    "Id": 40, "nome": "Lorenzo Campos", "foto": "https://randomuser.me/api/portraits/men/40.jpg", "cargo": "Engenheiro de Automação", "localizacao": "Joinville/SC", "area": "Engenharia",
+    "habilidadesTecnicas": ["Python", "Selenium", "RPA", "UiPath"], "softSkills": ["Otimização de Processos", "Lógica"]
+  },
+  {
+    "Id": 41, "nome": "Maya Gonçalves", "foto": "https://randomuser.me/api/portraits/women/41.jpg", "cargo": "Copywriter", "localizacao": "São Paulo/SP", "area": "Marketing",
+    "habilidadesTecnicas": ["Copywriting", "SEO Copywriting", "Gatilhos Mentais"], "softSkills": ["Persuasão", "Criatividade"]
+  },
+  {
+    "Id": 42, "nome": "Noah Cavalcanti", "foto": "https://randomuser.me/api/portraits/men/42.jpg", "cargo": "Desenvolvedor Salesforce", "localizacao": "Barueri/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Apex", "LWC", "SOQL", "Visualforce"], "softSkills": ["CRM", "Integração"]
+  },
+  {
+    "Id": 43, "nome": "Sarah Peixoto", "foto": "https://randomuser.me/api/portraits/women/43.jpg", "cargo": "Analista de CS", "localizacao": "Recife/PE", "area": "Cliente",
+    "habilidadesTecnicas": ["Customer Success", "Onboarding", "Churn Reduction"], "softSkills": ["Relacionamento", "Retenção"]
+  },
+  {
+    "Id": 44, "nome": "Lucca Almeida", "foto": "https://randomuser.me/api/portraits/men/44.jpg", "cargo": "Desenvolvedor WordPress", "localizacao": "Fortaleza/CE", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["PHP", "WordPress", "WooCommerce", "ACF"], "softSkills": ["Personalização", "Plugins"]
+  },
+  {
+    "Id": 45, "nome": "Maria Eduarda", "foto": "https://randomuser.me/api/portraits/women/45.jpg", "cargo": "Gerente de Vendas", "localizacao": "São Paulo/SP", "area": "Vendas",
+    "habilidadesTecnicas": ["Salesforce", "Spin Selling", "Negociação B2B"], "softSkills": ["Prospecção", "Fechamento"]
+  },
+  {
+    "Id": 46, "nome": "Theo Borges", "foto": "https://randomuser.me/api/portraits/men/46.jpg", "cargo": "Motion Designer", "localizacao": "Rio de Janeiro/RJ", "area": "Design",
+    "habilidadesTecnicas": ["After Effects", "Cinema 4D", "Animação 2D"], "softSkills": ["Criatividade", "Timing"]
+  },
+  {
+    "Id": 47, "nome": "Helena Duarte", "foto": "https://randomuser.me/api/portraits/women/47.jpg", "cargo": "Analista de RH", "localizacao": "Belo Horizonte/MG", "area": "RH",
+    "habilidadesTecnicas": ["Recrutamento", "Clima Organizacional", "Folha de Pagamento"], "softSkills": ["Comunicação", "Empatia"]
+  },
+  {
+    "Id": 48, "nome": "Emanuel Viana", "foto": "https://randomuser.me/api/portraits/men/48.jpg", "cargo": "Desenvolvedor Elixir", "localizacao": "São Paulo/SP", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Elixir", "Phoenix", "Erlang/OTP", "Sistemas Distribuídos"], "softSkills": ["Escalabilidade", "Tolerância a Falhas"]
+  },
+  {
+    "Id": 49, "nome": "Antonella Mattos", "foto": "https://randomuser.me/api/portraits/women/49.jpg", "cargo": "Especialista em Mídia Paga", "localizacao": "Porto Alegre/RS", "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "Facebook Ads", "LinkedIn Ads", "Otimização de CPC"], "softSkills": ["Análise de ROI", "Segmentação"]
+  },
+  {
+    "Id": 50, "nome": "Francisco Azevedo", "foto": "https://randomuser.me/api/portraits/men/50.jpg", "cargo": "Desenvolvedor C++", "localizacao": "Curitiba/PR", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C++", "STL", "Boost", "Qt"], "softSkills": ["Performance", "Baixo Nível"]
+  },
+  {
+    "Id": 51, "nome": "Rafaela Meireles", "foto": "https://randomuser.me/api/portraits/women/51.jpg", "cargo": "Analista de CRO", "localizacao": "São Paulo/SP", "area": "Marketing",
+    "habilidadesTecnicas": ["Testes A/B", "Google Optimize", "Hotjar", "Otimização de Conversão"], "softSkills": ["Análise Comportamental", "Experimentação"]
+  },
+  {
+    "Id": 52, "nome": "Samuel Fogaça", "foto": "https://randomuser.me/api/portraits/men/52.jpg", "cargo": "Desenvolvedor Angular", "localizacao": "Salvador/BA", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Angular", "TypeScript", "RxJS", "NgRx"], "softSkills": ["Estrutura", "MVVM"]
+  },
+  {
+    "Id": 53, "nome": "Isadora Correia", "foto": "https://randomuser.me/api/portraits/women/53.jpg", "cargo": "Arquiteta de Dados", "localizacao": "São Paulo/SP", "area": "Dados",
+    "habilidadesTecnicas": ["Data Lake", "Data Warehouse", "Modelagem de Dados", "Governança"], "softSkills": ["Visão Estratégica", "Organização"]
+  },
+  {
+    "Id": 54, "nome": "Bento Aragão", "foto": "https://randomuser.me/api/portraits/men/54.jpg", "cargo": "Engenheiro de Redes", "localizacao": "Rio de Janeiro/RJ", "area": "TI",
+    "habilidadesTecnicas": ["BGP", "OSPF", "MPLS", "SD-WAN"], "softSkills": ["Planejamento de Rede", "Troubleshooting"]
+  },
+  {
+    "Id": 55, "nome": "Lavínia Gusmão", "foto": "https://randomuser.me/api/portraits/women/55.jpg", "cargo": "UX Researcher", "localizacao": "São Paulo/SP", "area": "Design",
+    "habilidadesTecnicas": ["Entrevistas com Usuários", "Testes de Usabilidade", "Jornada do Usuário"], "softSkills": ["Empatia", "Análise Qualitativa"]
+  },
+  {
+    "Id": 56, "nome": "Mathias Pimenta", "foto": "https://randomuser.me/api/portraits/men/56.jpg", "cargo": "Desenvolvedor Rust", "localizacao": "Belo Horizonte/MG", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Rust", "Cargo", "Tokio", "WebAssembly"], "softSkills": ["Segurança de Memória", "Performance"]
+  },
+  {
+    "Id": 57, "nome": "Rebeca Brandão", "foto": "https://randomuser.me/api/portraits/women/57.jpg", "cargo": "Gerente de Afiliados", "localizacao": "São Paulo/SP", "area": "Marketing",
+    "habilidadesTecnicas": ["Marketing de Afiliados", "Gestão de Parceiros", "Comissionamento"], "softSkills": ["Negociação", "Relacionamento"]
+  },
+  {
+    "Id": 58, "nome": "Anthony da Mata", "foto": "https://randomuser.me/api/portraits/men/58.jpg", "cargo": "Desenvolvedor Swift", "localizacao": "Florianópolis/SC", "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Swift", "SwiftUI", "Combine", "iOS"], "softSkills": ["Experiência do Usuário", "Ecossistema Apple"]
+  },
+  {
+    "Id": 59, "nome": "Clarice Neves", "foto": "https://randomuser.me/api/portraits/women/59.jpg", "cargo": "Analista de People Analytics", "localizacao": "Rio de Janeiro/RJ", "area": "RH",
+    "habilidadesTecnicas": ["HR Analytics", "Python", "R", "Visualização de Dados"], "softSkills": ["Análise Preditiva", "Estratégia de RH"]
+  },
+  {
+    "Id": 60, "nome": "Augusto Silveira", "foto": "https://randomuser.me/api/portraits/men/60.jpg", "cargo": "Engenheiro de Robótica", "localizacao": "São José dos Campos/SP", "area": "Engenharia",
+    "habilidadesTecnicas": ["ROS", "C++", "Python", "Controle de Movimento"], "softSkills": ["Resolução de Problemas Complexos", "Física"]
   }
 ]

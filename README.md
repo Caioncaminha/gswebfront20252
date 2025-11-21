@@ -26,11 +26,9 @@ Para configurar e executar o projeto localmente, siga os passos abaixo:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [LINK_DO_REPOSITORIO]
+    git clone https://github.com/Caioncaminha/gswebfront20252
     cd gswebdevfront20252
     ```
-
-    (Substitua `[LINK_DO_REPOSITORIO]` pelo link real do seu repositório GitHub.)
 
 2.  **Instale as dependências:**
 

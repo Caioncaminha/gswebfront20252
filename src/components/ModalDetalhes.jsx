@@ -5,12 +5,10 @@ const ModalDetalhes = ({ profile, onClose }) => {
 
   const handleRecommend = () => {
     alert(`Você recomendou ${profile.nome}!`);
-    // Aqui poderia haver uma lógica para enviar a recomendação a um backend
   };
 
   const handleSendMessage = () => {
     alert(`Abrindo chat para enviar mensagem a ${profile.nome}...`);
-    // Aqui poderia haver uma lógica para abrir um formulário de mensagem ou redirecionar para um chat
   };
 
   return (

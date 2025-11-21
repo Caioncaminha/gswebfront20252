@@ -4,7 +4,7 @@ const CardPerfil = ({ profile, onClick }) => {
   return (
     <div
       className="bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg dark:shadow-gray-700 p-4 m-2 w-full sm:w-72 cursor-pointer transition-shadow duration-300"
-      onClick={onClick} // Adicionado o manipulador de clique
+      onClick={onClick}
     >
       <img
         src={profile.foto}
